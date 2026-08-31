@@ -10,6 +10,7 @@ My solutions to LeetCode problems, in Python and C#.
 | 70 | [Climbing Stairs](python/0070_climbing_stairs.py) | Easy | Python |
 | 121 | [Best Time to Buy and Sell Stock](python/0121_best_time_to_buy_and_sell_stock.py) | Easy | Python |
 | 206 | [Reverse Linked List](csharp/0206_ReverseLinkedList.cs) | Easy | C# |
+| 283 | [Move Zeroes](python/0283_move_zeroes.py) | Easy | Python |
 | 704 | [Binary Search](python/0704_binary_search.py) | Easy | Python |
 
 Each file starts with a short note on the approach and its time/space complexity.
