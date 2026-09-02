@@ -11,6 +11,7 @@ My solutions to LeetCode problems, in Python and C#.
 | 121 | [Best Time to Buy and Sell Stock](python/0121_best_time_to_buy_and_sell_stock.py) | Easy | Python |
 | 169 | [Majority Element](python/0169_majority_element.py) | Easy | Python |
 | 206 | [Reverse Linked List](csharp/0206_ReverseLinkedList.cs) | Easy | C# |
+| 242 | [Valid Anagram](python/0242_valid_anagram.py) | Easy | Python |
 | 283 | [Move Zeroes](python/0283_move_zeroes.py) | Easy | Python |
 | 704 | [Binary Search](python/0704_binary_search.py) | Easy | Python |
 
