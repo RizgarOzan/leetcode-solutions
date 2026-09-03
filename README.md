@@ -9,6 +9,7 @@ My solutions to LeetCode problems, in Python and C#.
 | 20 | [Valid Parentheses](python/0020_valid_parentheses.py) | Easy | Python |
 | 70 | [Climbing Stairs](python/0070_climbing_stairs.py) | Easy | Python |
 | 121 | [Best Time to Buy and Sell Stock](python/0121_best_time_to_buy_and_sell_stock.py) | Easy | Python |
+| 136 | [Single Number](python/0136_single_number.py) | Easy | Python |
 | 169 | [Majority Element](python/0169_majority_element.py) | Easy | Python |
 | 206 | [Reverse Linked List](csharp/0206_ReverseLinkedList.cs) | Easy | C# |
 | 242 | [Valid Anagram](python/0242_valid_anagram.py) | Easy | Python |
